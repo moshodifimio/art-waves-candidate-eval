@@ -51,3 +51,9 @@ Start the server
 ```bash
   npm run start
 ```
+
+Access the ledger demo in the browser with the following url
+
+```bash
+localhost:3000/ledger
+```
